@@ -19,7 +19,9 @@ out/
 
 # Gradle files
 .gradle/
+.gradle
 build/
+.DS_Store
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -83,3 +85,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+/local.properties
+local.properties
